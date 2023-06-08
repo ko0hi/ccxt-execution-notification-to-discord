@@ -1,5 +1,5 @@
 # ccxt-execution-notification-to-discord
-## Gettin Started
+## Getting Started
 
 Install requirements.
 

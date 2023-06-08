@@ -34,7 +34,9 @@ python main.py --exchange binance binanceusdm okx --webhook ${YOUR_WEBHOOK_URL}
 
 ```
 
-Your will receive a message like `Start watching your executions at the following exchanges: ['binance', 'binanceusdm', 'okx]` on your webhook channel.
+At the beginning, you will receive an initial message like `Start watching your executions at the following exchanges: ['binance', 'binanceusdm', 'okx]` on your webhook channel.
+
+Then, you will receive a message like `binanceusdm - BUY: BTC/USDT:USDT at 26446.5 with a lot of 0.001` when your order is executed.
 
 Other args.
 

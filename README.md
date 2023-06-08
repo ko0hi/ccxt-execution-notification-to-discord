@@ -1,4 +1,4 @@
-# Notify Your Trades to Discord
+# ccxt-execution-notification-to-discord
 ## Gettin Started
 
 Install requirements.
@@ -51,4 +51,4 @@ options:
   --restart_interval RESTART_INTERVAL
                         Restart interval of watching execution (default: 12 hours)
   --log LOG             Path to log file
-```# ccxt-execution-notification-to-discord
+```

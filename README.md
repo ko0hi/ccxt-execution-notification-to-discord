@@ -1,6 +1,8 @@
 # ccxt-execution-notification-to-discord
 ## Getting Started
 
+Require python 3.10 or higher.
+
 Install requirements.
 
 ```bash
